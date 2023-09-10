@@ -12,7 +12,7 @@
 
 **Exemplos de Uso**: Para jogar o Jogo da Forca, siga estas etapas:
 1. Clone o repositório.
-2. Execute o jogo usando o comando `python jogo_da_forca-v1.py`.
+2. Execute o jogo usando o comando `python jogo_da_forca.py`.
 3. Siga as instruções na tela para adivinhar letras e palavras.
 
 **Estado do Projeto**: Projeto concluído
